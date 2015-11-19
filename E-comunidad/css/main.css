@@ -1,0 +1,200 @@
+nav ul{
+	list-style-type:none;
+	padding-top:80px;
+	margin:0 -15px 0 0;
+	float:right;
+	font-size:14px;
+	line-height:14px;
+	  
+}
+nav li{
+	position:relative;
+	float:right;
+	text-align:right;
+}
+nav li:hover a{
+	background:#585858;
+}
+nav a{
+	text-decoration:none;
+	padding:10px 15px;
+	color:black;
+}
+nav a:hover{
+	color:#5F9EA0;
+}
+
+.banana{
+	height:600px; 
+	background-image:  url(../img/semilla.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.blanco{
+	background-color: #E6E6E6;
+	height: 160px;
+}
+.lorem{
+	text-align:center;
+	color:#585858;
+}
+.p{
+	padding-top:30px;
+}
+.lola{
+	text-align:center;
+}
+.nene{
+	padding-top:20%;
+	margin-left:30%;
+}
+.nana{
+	height:600px; 
+	background-image: url(../img/metodo.jpg);
+	background-size:50%;
+	background-repeat: no-repeat;
+	margin-top:50px;
+}
+.mama{
+	height:590px; 
+	background-image: url(../img/fondo.jpg);
+	background-size:675px;
+	background-repeat: no-repeat;
+	margin-top:-600px;
+	margin-left:49%;
+}
+.meto{
+	text-align:center;
+	margin-top:10px;
+	color:white; 
+}
+.nono{
+	padding-top:20%;
+	margin-left:45%;
+}
+.mary{
+	text-align:center;
+	margin-top:5px;
+}
+.loca{
+	padding-top:20%;
+	margin-left:30%;
+}
+.loco{
+	text-align:center;
+	
+}
+.lolo{
+	padding-top:20%;
+	margin-left:30%;
+}
+.lala{
+	text-align:center;
+}
+.ori{
+	margin-left:10%;
+}
+.yeye{
+	color:#527A00;
+}
+.yoyo{
+	background-color:#2E5C00;
+	height:800px;
+	margin-top:70px;
+}
+.toto{
+	margin-top:1%;
+	height:100%;
+	width:100%;
+}
+.parra{
+	margin-top:25%;
+	color:white;
+}
+.letra{
+	text-align:center;
+	margin-top:30%;
+	color:white;
+}
+.lele{
+	text-align:center;
+	color:white;
+}
+.tata{
+	margin-top:1%;
+	height:100%;
+	width:100%;
+	margin-left:3%;
+}
+.let{
+	text-align:center;
+	color:white;
+}
+.nia{
+	margin-top:20%;
+	padding:5px;
+	border-radius:800px;
+	overflow:hidden;
+	width:40%;
+	height:40%;
+}
+.mia{
+	text-align:center;
+	margin-right:50%;
+}
+.icon{
+	width:10%;
+	height:10%;
+	margin-right:5%;
+	margin-top:7%;
+}
+.tiempo{
+	background-image:url(../img/fondo2.jpg);
+	height:400px;
+	margin-top:70px;
+}
+.roo{
+	width:100%;
+	height:100%;
+	margin-top:10%;
+}
+.raa{
+	text-align:center;
+}
+.lu{
+	width:100%;
+	height:100%;
+}
+.la{
+	background-color:#191919;
+	height:350px;
+}
+.pepe{
+	width:230px;
+	height:260px;
+	border:white solid 1px;
+	margin-top:5%;
+}
+.tre{
+	color:white;
+}
+.ico{
+	width:20%;
+	height:20%;
+	margin-left:50%;
+	margin-top:70%;
+}
+.li{
+	background-color:#E6E6E6;
+	height:150px;
+}
+.ji{
+	color: yellow;
+}
+.miu{
+	margin-top:9%;
+	margin-left:90%;
+}
+.mii{
+	margin-left:90%;
+}

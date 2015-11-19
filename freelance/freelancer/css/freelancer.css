@@ -1,0 +1,176 @@
+/* Inserta tu código aqui */
+/*backgroung color azul aqua y todo su contenido*/
+.back{
+	background-color:#18BC9C;
+	height:400px;
+}
+.mr0{
+	margin-bottom:0%;
+}
+.img1{
+	margin-left:43%;
+	width:13%;
+	margin-top:7.5%;
+}
+h1{
+	font-size:30px;
+	color:white;
+	text-align:center;
+}
+i{
+	color:white;
+	margin-left:50%;
+}
+.p1{
+	text-align:center;
+	color:white;
+}
+/*lo que esta afuera del header*/
+.p2{
+	margin-top:10%;
+	font-size:17px;
+}
+h3{
+	margin-top:15%;
+}
+/*parte del contact y se utiliza en todas las paginas*/
+.margin{
+	margin-top:14%;
+}
+.contact{
+	text-align:center;
+	font-size:25px;
+}
+.i1{
+	color:#18BC9C;
+}
+/*parte del footer y se utiliza en todas las paginas*/
+.back2{
+	background-color:#C0C0C0;
+	height:250px;
+	margin-top:10%;
+}
+h6{
+	text-align:center;
+	color:white;
+	margin-top:15%;
+}
+.p3{
+	text-align:center;
+	color:white;
+	margin-top:6%;
+}
+span{
+	color:white;
+	margin-top:10%;
+	margin-left:13%;
+}
+/*para el tamaño del fooder*/
+@media (max-width:768px) {
+ .back2{
+	background-color:#C0C0C0;
+	height:500px;
+	margin-top:10%;
+}
+}
+@media (max-width:320px) {
+ .back2{
+	background-color:#C0C0C0;
+	height:500px;
+	margin-top:10%;
+}
+}
+@media(max-width:480px){
+	 .back2{
+	background-color:#C0C0C0;
+	height:600px;
+	margin-top:10%;
+}
+}
+@media(max-width:1200px){
+.back2{
+	background-color:#C0C0C0;
+	height:200px;
+	margin-top:10%;
+}	
+}
+@media(max-width:1024px){
+.back2{
+	background-color:#C0C0C0;
+	height:650px;
+	margin-top:10%;
+}	
+}
+/*aqui termina la primera pagina*/
+
+/*sugunda pagina*/
+
+.h3header{
+	color:white;
+	margin-left:14%;
+	margin-top:2%;
+}
+/*fuera del header*/
+.h1sug1{
+	margin-top:10%;
+	color:white;
+	font-size:40px;
+	text-align:center;
+}
+h5{
+	color: white;
+	text-align:center;
+}
+/*el contenido*/
+h4{
+	text-align:center;
+	color:#18BC9C;
+	font-size:35px;
+	margin-top:8%; 
+}
+img{
+	width:65%;
+	height:65%;
+	margin-left:3%;
+}
+.p4{
+	font-size:20px;
+	margin-top:5%;
+}
+/*aqui termina la sugunda pagina*/
+
+/*aqui inicia la tercera pagina*/
+.h41{
+	color:#778899;
+	font-size:40px;
+	margin-top:8%;
+	text-align:center; 
+}
+.i2{
+	color:#778899;
+}
+.img3{
+	margin-top:9%;
+	margin-left:10%; 
+	width:80%;
+	height:80%;
+}
+/*parte del baout*/
+.back6{
+	background-color:#18BC9C;
+	height:410px;
+	margin-top:9%;
+}
+/*clase para el boton*/
+.bto{
+	margin-left:40%;
+	margin-top:3.5%;
+}
+/*footer dela tercera pagina*/
+.back4{
+	background-color:#C0C0C0;
+	height:250px;
+	margin-top:45%;
+
+}
+/*aqui termina mi CSS*/
